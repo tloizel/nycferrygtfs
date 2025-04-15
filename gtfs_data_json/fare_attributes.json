@@ -1,0 +1,11 @@
+[
+  {
+    "fare_id": "1",
+    "price": "4.00",
+    "currency_type": "USD",
+    "payment_method": "1",
+    "transfers": "",
+    "transfer_duration": "5400",
+    "agency_id": "1"
+  }
+]
